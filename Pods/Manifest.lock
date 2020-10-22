@@ -1,0 +1,98 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - AvoidCrash (2.5.2)
+  - Bugly (2.5.0)
+  - HappyDNS (0.3.14)
+  - JCore (1.2.0)
+  - JPush (3.0.9):
+    - JCore (~> 1.2.0)
+  - Masonry (1.1.0)
+  - MJExtension (3.0.15.1)
+  - MJRefresh (3.1.15.3)
+  - Qiniu (7.2.5):
+    - HappyDNS (~> 0.3)
+  - Reachability (3.2)
+  - SDWebImage (4.4.1):
+    - SDWebImage/Core (= 4.4.1)
+  - SDWebImage/Core (4.4.1)
+  - SocketRocket (0.5.1)
+  - SVProgressHUD (2.2.5)
+  - "UITableView+FDTemplateLayoutCell (1.6)"
+  - YMCitySelect2 (1.4.5)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - AFNetworking
+  - AvoidCrash (~> 2.5.2)
+  - Bugly
+  - JPush (= 3.0.9)
+  - Masonry
+  - MJExtension
+  - MJRefresh
+  - Qiniu (~> 7.2.5)
+  - Reachability (~> 3.2)
+  - SDWebImage
+  - SocketRocket
+  - SVProgressHUD
+  - "UITableView+FDTemplateLayoutCell"
+  - YMCitySelect2 (~> 1.4.5)
+  - YYKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - AvoidCrash
+    - Bugly
+    - HappyDNS
+    - JCore
+    - JPush
+    - Masonry
+    - MJExtension
+    - MJRefresh
+    - Qiniu
+    - Reachability
+    - SDWebImage
+    - SocketRocket
+    - SVProgressHUD
+    - "UITableView+FDTemplateLayoutCell"
+    - YMCitySelect2
+    - YYKit
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  AvoidCrash: 28c6916fe19bd2b84126b8dec7cbe61c9a12741d
+  Bugly: 3ca9f255c01025582df26f9222893b383c7e4b4e
+  HappyDNS: dc6a164ee81979093123c241c6353bcf0218add6
+  JCore: b52e3dd73625eec70afd1244bb9c41038aa06087
+  JPush: 48041e8c5ad2ef9b48709eb0888af9640b36e9b0
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  Qiniu: 909b408ee489ea54827e9717be90b94bc9dfbc48
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDWebImage: 47e9b5b925cbce75946c23f0c42dd19464189af4
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  "UITableView+FDTemplateLayoutCell": 5c949b4a5059c404b442926c0e80f81d10a2d66f
+  YMCitySelect2: 3d7178fb7c0e38d8b8db289ff577c7ba5b8cf66a
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 7c04e423ded71769f17b9814c1dc0e6a8dc08400
+
+COCOAPODS: 1.5.2
